@@ -1,0 +1,10 @@
+[package]
+name = "spike_music_player"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.33.3"
+rfd = "0.17.2"
+rodio = "0.22.2"
+walkdir = "2.5.0"
